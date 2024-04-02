@@ -1,6 +1,7 @@
 Parise Luca 2043677 - Leonardo Baldo 2042372
 
-[processori](processori.md)
-[schede_madri](schede_madri.md)
+## Componenti
+[processori](componenti/processori.md)
+[schede_madri](componenti/schede_madri.md)
 
 Elettronica Padovana
